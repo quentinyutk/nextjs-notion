@@ -17,9 +17,9 @@ export default siteConfig({
   description: '记录上海的一小块',
 
   // social usernames (optional)
-  twitter: '-',
-  github: '-',
-  linkedin: '-',
+  twitter: '',
+  github: '',
+  linkedin: '',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
