@@ -20,7 +20,7 @@ export default siteConfig({
   twitter: '',
   github: '',
   linkedin: '',
-  // newsletter: '#', // optional newsletter URL
+  // newsletter: 'https://nsblvd.zhubai.love/', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
